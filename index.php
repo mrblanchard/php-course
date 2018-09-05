@@ -1,3 +1,3 @@
 <?php
-echo "the world is my oyster";
+echo "The world is my oyster";
 ?>
